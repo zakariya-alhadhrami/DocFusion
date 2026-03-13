@@ -6,6 +6,8 @@
 
 An end-to-end pipeline for processing scanned receipts. Upload a receipt image to automatically extract key fields and detect potential forgeries.
 
+[DEMO](https://huggingface.co/spaces/Zakariya007/docfusion)
+
 ---
 
 ## 🚀 Features
@@ -88,16 +90,7 @@ A receipt is flagged as forged if either the visual model or 2+ rule-based check
 
 ---
 
-## 🎨 Bounding Box Colors
 
-| Color | Field |
-|---|---|
-| 🟢 Green | Vendor |
-| 🔵 Blue | Date |
-| 🟠 Orange | Total |
-| 🔴 Red border | Forged receipt |
-
----
 
 ## 💻 Local Setup
 
@@ -133,4 +126,4 @@ DocFusion/
 
 ---
 
-*Built with ❤️ using HuggingFace Transformers, PyTorch, and Gradio*
+*Built using HuggingFace Transformers, PyTorch, and Gradio*
