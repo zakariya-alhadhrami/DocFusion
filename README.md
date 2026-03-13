@@ -1,14 +1,4 @@
----
-title: DocFusion — Intelligent Document Processing
-emoji: 🧾
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: 4.0.0
-app_file: app.py
-pinned: false
-license: mit
----
+
 
 # 🧾 DocFusion — Intelligent Document Processing
 
